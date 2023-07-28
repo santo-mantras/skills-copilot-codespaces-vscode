@@ -1,0 +1,41 @@
+// Create web server
+// 1. npm init
+// 2. npm install express --save
+// 3. npm install body-parser --save
+// 4. npm install nodemon --save-dev
+// 5. npm install cors --save
+// 6. npm install mongoose --save
+// 7. npm install dotenv --save
+// 8. npm install bcryptjs --save
+// 9. npm install jsonwebtoken --save
+// 10. npm install express-validator --save
+// 11. npm install uuid --save
+// 12. npm install multer --save
+// 13. npm install sharp --save
+// 14. npm install morgan --save
+// 15. npm install -g nodemon
+// 16. npm install --save-dev jest
+// 17. npm install --save-dev supertest
+// 18. npm install --save-dev jest-mongodb
+// 19. npm install --save-dev mongodb-memory-server
+// 20. npm install --save-dev @shelf/jest-mongodb
+// 21. npm install --save-dev jest-extended
+// 22. npm install --save-dev @types/jest
+// 23. npm install --save-dev @types/supertest
+// 24. npm install --save-dev ts-jest
+// 25. npm install --save-dev ts-node
+// 26. npm install --save-dev @types/mongoose
+// 27. npm install --save-dev @types/express
+// 28. npm install --save-dev @types/node
+// 29. npm install --save-dev @types/bcryptjs
+// 30. npm install --save-dev @types/jsonwebtoken
+// 31. npm install --save-dev @types/uuid
+// 32. npm install --save-dev @types/multer
+// 33. npm install --save-dev @types/sharp
+// 34. npm install --save-dev @types/morgan
+// 35. npm install --save-dev tsconfig-paths
+// 36. npm install --save-dev tsconfig-paths-jest
+// 37. npm install --save-dev tsconfig-paths
+// 38. npm install --save-dev tsconfig-paths-jest
+// 39. npm install --save-dev tsconfig-paths-jest
+// 40. npm install --save-dev
